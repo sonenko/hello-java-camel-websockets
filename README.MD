@@ -5,7 +5,7 @@
 execute following command from project root
 
 ```
-./run.hs
+./run.sh
 ```
 
 And then navigate your browser to `http://localhost:8081` and play with it :)
